@@ -1,0 +1,2 @@
+# gittext
+my first  repository
